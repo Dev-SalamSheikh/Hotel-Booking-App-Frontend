@@ -43,5 +43,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://sheikh-booking-backend.onrender.com"
+  "proxy": "https://sheikh-booking-backend.onrender.com/api"
 }
