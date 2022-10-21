@@ -2,7 +2,7 @@ import useFetch from "../../hooks/UseFetch";
 import "./featured.css";
 
 const Featured = () => {
-  const { data, loading, error } = useFetch(
+  const { data, loading } = useFetch(
     "/hotels/countByCity?cities=Bogura,Dhaka,Rajshahi"
   );
 
